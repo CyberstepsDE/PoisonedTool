@@ -1,0 +1,14 @@
+BUG REPRODUCED: Previously approved server1 is re-listed for approval.
+
+FULL OUTPUT:
+
+Previously approved servers:
+  [0] http://server1 (tools: (no tools))
+
+MCP servers available:
+------------------------------------------------------------
+  [0] http://server1
+      Tools: (none)
+  [1] http://server2
+      Tools: (none)
+------------------------------------------------------------

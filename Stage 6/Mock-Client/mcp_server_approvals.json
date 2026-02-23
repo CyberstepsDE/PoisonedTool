@@ -1,0 +1,4 @@
+{
+  "http://localhost:2506/sse": true,
+  "http://localhost:3101/sse": true
+}
